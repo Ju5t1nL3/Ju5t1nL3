@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="src/README.css">
 
-# 👋 Howdy! I'm Isaac Chacko
+# 👋 Howdy! I'm Justin Le
 [![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.justindtle.com/)
 [![Resume](https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=readme&logoColor=white)](https://www.justindtle.com/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j622560@tamu.edu)
