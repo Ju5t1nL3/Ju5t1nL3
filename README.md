@@ -24,6 +24,6 @@
 
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacchacko&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju5t1nL3&layout=compact&theme=radical" alt="Top Languages">
   </div>
 </div>
