@@ -26,3 +26,6 @@
 
   </div>
 </div>
+
+## Top Languages
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME)
